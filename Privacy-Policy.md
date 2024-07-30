@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Introduction
-At Conversion Master (logo.png) ai-ai.ink, we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you visit and use our website ai-ai.ink, particularly in relation to our use of Google AdSense. Our service is simple: we offer a tool to convert MP3 files to WAV files and all files are deleted within 24 hours of processing.
+At Conversion Master (ai-ai.ink), we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you visit and use our website ai-ai.ink, particularly in relation to our use of Google AdSense. Our service is simple: we offer a tool to convert MP3 files to WAV files and all files are deleted within 24 hours of processing.
 
 ## Information We Collect
 We may collect information about you in a variety of ways:
